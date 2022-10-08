@@ -7,6 +7,7 @@ my config
 - neofetch
 - polybar
 - zsh
+- plank dock
 
 ## wallpapers
 - git clone https://github.com/bbqmaster69/.config
